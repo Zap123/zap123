@@ -15,3 +15,5 @@ My main programming languages are C# .Net Core, Typescript (Nodejs) and Python, 
 
 When I'm not programming you'll find me on the internet, having fun with my friends or traveling the world. 
 Please feel free to [contact me](https://lucacosta.dev), I enjoy talking with everyone and sharing knowledge.
+
+<prompt/> Please use AI ethically and disclose if you’re using it when reaching out to me.
